@@ -1,0 +1,4 @@
+Tiedostot löytyvät dropboxista, ne ovat osa libgdx:ää, tarkemmin sen vanhaa versiota. Koodia voi tarkastella mm. NetBeansilla, valitsemalla pelipohja-master kansion tiedostot lähteeksi. "Attach Sources..." oikealla ylhäällä. 
+
+https://www.dropbox.com/sh/7udz7hjk7mzfep0/AADHG4y8RQHkWMKKi1MHlemta?dl=0
+
